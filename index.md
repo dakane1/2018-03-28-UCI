@@ -236,7 +236,7 @@ The course is aimed at graduate students and other researchers, including underg
 
   1. If your workshop is R rather than Python, remove the comment
      around that section and put a comment around the Python section.
-  2. Some workshops will delete SQL.
+  2. Some workshops will delete .
   3. Please make sure the list of topics is synchronized with what you
      intend to teach.
   4. You may need to move the div's with class="col-md-6" around inside
