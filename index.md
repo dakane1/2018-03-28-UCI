@@ -11,7 +11,7 @@ humantime: "8:30 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2018-03-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-03-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Danielle Kane", "Laura Smart"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Raymond Camero", "Kelly Spring", "Ashley Burke"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Raymond Camero", "Kelly Spring", "Ashley Burke", "Archana Chaudhri"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kaned@uci.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://public.etherpad-mozilla.org/p/2018-03-28_UCI           # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "42325108539"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
